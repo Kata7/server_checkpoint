@@ -1,0 +1,109 @@
+{
+  "genres": ["black", "death", "thrash", "sludge"],
+  "albums": [
+    {
+      "artist": "Desolator",
+      "title": "Spawn of Misanthropy",
+      "genre": ["death"],
+      "themes": ["Old Gods","Existence"],
+      "country": "Sweden",
+      "year": "2016"
+    },
+    {
+      "artist": "Demolition Hammer",
+      "title": "Epidemic of Violence",
+      "genre": ["thrash", "death"],
+      "themes": ["","",""],
+      "country": "USA",
+      "year": "1992"
+    },
+    {
+      "artist": "Demolition Hammer",
+      "title": "Tortured Existence",
+      "genre": ["thrash", "death"],
+      "themes": ["","",""],
+      "country": "USA",
+      "year": "1990"
+    },
+    {
+      "artist": "Bolt Thrower",
+      "title": "The IVth Crusade",
+      "genre": ["death"],
+      "themes": ["","",""],
+      "country": "UK",
+      "year": "1992"
+    },
+    {
+      "artist": "Bolt Thrower",
+      "title": "...For Victory",
+      "genre": [""],
+      "themes": ["","",""],
+      "country": "UK",
+      "year": "1994"
+    },
+    {
+      "artist": "Immortal",
+      "title": "At the Heart of Winter",
+      "genre": ["black"],
+      "themes": ["Winter","War"],
+      "country": "Norway",
+      "year": "1999"
+    },
+    {
+      "artist": "Imprecation",
+      "title": "Theurgia Goetia Summa",
+      "genre": ["death"],
+      "themes": ["Occultism","Satanism"],
+      "country": "US",
+      "year": "1995"
+    },
+    {
+      "artist": "Municipal Waste",
+      "title": "The Art of Partying",
+      "genre": ["thrash"],
+      "themes": ["","",""],
+      "country": "USA",
+      "year": "2007"
+    },
+    {
+      "artist": "Municpal Waste",
+      "title": "Hazardous Mutation",
+      "genre": ["thrash"],
+      "themes": ["","",""],
+      "country": "USA",
+      "year": "2005"
+    },
+    {
+      "artist": "Buzzov*en",
+      "title": "...At A Loss",
+      "genre": ["sludge"],
+      "themes": ["","",""],
+      "country": "USA",
+      "year": "1998"
+    },
+    {
+      "artist": "Weedeater",
+      "title": "Sixteen Tons",
+      "genre": ["sludge"],
+      "themes": ["","",""],
+      "country": "USA",
+      "year": "2002"
+    },
+    {
+      "artist": "Bongzilla",
+      "title": "Amerijuanican",
+      "genre": ["sludge"],
+      "themes": ["","",""],
+      "country": "USA",
+      "year": "2005"
+    },
+    {
+      "artist": "",
+      "title": "",
+      "genre": [""],
+      "themes": ["","",""],
+      "country": "",
+      "year": ""
+    }
+  ]
+}
